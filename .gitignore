@@ -1,3 +1,4 @@
 data/*
+statistics/*
 extract.py
-format.py
+statistics.py
