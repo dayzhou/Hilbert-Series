@@ -26,7 +26,7 @@ def update_data( data, record ) :
 
 if __name__ == '__main__' :
 	data = []
-	toFile = open( os.path.join( toRootFolder, 'statistics.txt' ), 'w' )
+	toFile = open( os.path.join( toRootFolder, 'total.txt' ), 'w' )
 	toFile.write( 'FORMAT: [ DIMENSION, DEGREE, HILBERT-SERIES, COUNT ]\n\n' )
 	
 	for n in N :
