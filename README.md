@@ -1,4 +1,4 @@
-Hilbert-Space
+Hilbert-Series
 =============
 
-Hilbert space Data for vacuum geometry of quiver gauge theories
+Hilbert series Data for vacuum geometry of quiver gauge theories

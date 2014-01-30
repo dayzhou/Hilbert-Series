@@ -1,3 +1,7 @@
 data/*
 statistics/*
 extract.py
+statistics-ne.py
+statistics-n.py
+statistics-total.py
+
