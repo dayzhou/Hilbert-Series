@@ -1,6 +1,8 @@
 data/*
 statistics/*
+tex/*
 extract.py
 statistics-n.py
-statistics-ne.py
+#statistics-ne.py
 statistics-total.py
+#tex-format.py
