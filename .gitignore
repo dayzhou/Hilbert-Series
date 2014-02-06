@@ -4,13 +4,5 @@ basic-statistics/*
 generic-statistics/*
 basic-tex/*
 generic-tex/*
-basic-extract.py
-basic-statistics.py
-basic-statistics-n.py
-basic-statistics-total.py
-basic-tex-format.py
-generic-extract.py
-generic-statistics.py
-generic-statistics-n.py
-generic-statistics-total.py
-generic-tex-format.py
+codes/basic-extract.py
+codes/generic-extract.py
