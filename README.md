@@ -4,7 +4,9 @@ Feb. 7th, 2014
 =============
 
 This is the Hilbert series data for quiver gauge theories considered in this article:
+
 (hyperlink...)
+
 Below is an explanatory note on the files in this GitHub repository.
 
 =============
