@@ -13,7 +13,7 @@ Below is an explanatory note on the files in this GitHub repository.
 
 -- "codes" directory:
 
-the scripts used for handling data in data.tar.bz2 and statistics.tar.bz2 and generating the PDF files "Hilbert-series-basic-case.pdf" and "Hilbert-series-generic-case.pdf".
+The scripts used for handling data in data.tar.bz2 and statistics.tar.bz2 and generating the PDF files "Hilbert-series-basic-case.pdf" and "Hilbert-series-generic-case.pdf".
 
 If you're interested in them, feel free to hack! I will not explain them here.
 
@@ -24,7 +24,8 @@ If you're interested in them, feel free to hack! I will not explain them here.
 The raw data files generated with Macaulay2, the Hilbert series data in them are not simplified, and are not sorted out in order. I compressed them because the original size are too big.
 
 All the data in each ".txt" file are in this format:
-{dimension, degree, Hilbert-series}
+{dimension, degree, Hilbert-series}.
+
 Each ".txt" file is for a particular quiver with specific number of nodes "n" and edges "e".
 
 To download this file, click on its name and then click on "View Raw". To uncompress it, use this command on Linux:
@@ -37,7 +38,7 @@ To download this file, click on its name and then click on "View Raw". To uncomp
 This compressed file contains statistical data of the raw data. We counted the frequency of each combination - {dimension, degree, Hilber-series} for every (n, e) pair, and sorted them by frequency in descending order.
 
 All data in each ".txt" file are in this format:
-[dimension, degree, Hilbert-series, count]
+[dimension, degree, Hilbert-series, count].
 
 =============
 
