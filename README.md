@@ -5,7 +5,7 @@ Feb. 7th, 2014
 
 This is the Hilbert series data for quiver gauge theories considered in this article:
 
-(hyperlink...)
+[The statistics of vacuum geometry](http://link.springer.com/article/10.1007%2FJHEP06(2014)042)
 
 Below is an explanatory note on the files in this GitHub repository.
 
